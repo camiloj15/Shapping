@@ -32,8 +32,8 @@
                     </view>
                     <navigationItem key="navigationItem" id="To9-E4-iVf"/>
                     <connections>
-                        <outlet property="mapView" destination="P2A-HK-fbq" id="9Ix-Gy-mxI"/>
-                        <outlet property="searchBar" destination="ood-09-qlv" id="opa-cp-f83"/>
+                        <outlet property="mapView" destination="P2A-HK-fbq" id="Yad-yv-Ya6"/>
+                        <outlet property="searchBar" destination="ood-09-qlv" id="sVv-3B-jcd"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>

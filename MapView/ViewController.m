@@ -15,7 +15,7 @@
 //
 
 #import "ViewController.h"
-#import "Producto.m"
+#import "Producto.h"
 
 @interface ViewController (){
     NSArray *array;
